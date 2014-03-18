@@ -1,0 +1,10 @@
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+ 
+Ontology: <https://gist.githubusercontent.com/0robustus1/9190241/raw/bdc908ee44130de23baa075fa3695eef2ae08cc2/importing_ontology.owl>
+  Import: <https://gist.githubusercontent.com/0robustus1/9190241/raw/4262af3b7d7df474f05a319ccfefba2d6b703c7a/imported_ontology.owl>
+ 
+  Class: <https://gist.githubusercontent.com/0robustus1/9190241/raw/bdc908ee44130de23baa075fa3695eef2ae08cc2/importing_ontology.owl#Test1>
